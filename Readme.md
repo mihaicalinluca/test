@@ -19,6 +19,10 @@
 				
 	sudo apt-get install nlohmann-json3-dev
 
+- create a build folder inside the test folder
+	
+	mkdir build
+	
 - go inside the build folder from the test folder
 	
 	cd build 
